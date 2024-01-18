@@ -1,18 +1,16 @@
 ## Oii! Aqui está um pouquinho mais sobre mim...👋
-- 🔭 Eu atualmente estou a procura de uma oportunidade na área de desenvolvimento em software;
-- 🌱 Além da faculdade em Análise e Desenvolvimento de Sistemas eu estou estudando duas tecnologias frontend: JavaScript e Vue.js;
-- 📖 Já tive contato com outras linguagens de programação como: Java e Python;
+- 🔭 Eu atualmente atuo como estagiáro na área de Testes de Software;
+- 🌱 Além da faculdade em Análise e Desenvolvimento de Sistemas eu estou aprofundando meus estudos em Python; 
+- 📖 Já tive contato com outras linguagens de programação como: Java e C;
 - 💬 Qualquer dúvida sobre mim ou sobre algum repositório você pode entrar em contato comigo pelo email ou LinkedIn;
-- ⚡ Fato curioso: já me confundiram com um ex-participante do BBB - não sei como, mas ok -
+- ⚡ Fato curioso: já fui fotografo profissional! 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Rafa-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Vue" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 ##
