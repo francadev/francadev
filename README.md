@@ -1,7 +1,7 @@
 ## Oii! Aqui está um pouquinho mais sobre mim...👋
-- 🔭 Eu atualmente atuo como estagiáro na área de Testes de Software;
-- 🌱 Além da faculdade em Análise e Desenvolvimento de Sistemas eu estou aprofundando meus estudos em Python; 
-- 📖 Já tive contato com outras linguagens de programação como: Java e C;
+- 🔭 Eu atualmente atuo como analista na área de Testes de Software;
+- 🌱 Estou aprofundando meus estudos em desenvolvimento para dispositivos móveis em Android Nativo (Kotlin); 
+- 📖 Já tive contato com outras linguagens de programação como: Java, C e Python;
 - 💬 Qualquer dúvida sobre mim ou sobre algum repositório você pode entrar em contato comigo pelo email ou LinkedIn;
 - ⚡ Fato curioso: já fui fotografo profissional! 
   
