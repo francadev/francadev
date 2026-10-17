@@ -1,5 +1,5 @@
 ## Oii! Aqui está um pouquinho mais sobre mim...👋
-- 🔭 Eu atualmente atuo como analista na área de Testes de Software;
+- 🔭 Atualmente trabalho como analista na área de Testes de Software;
 - 🌱 Estou aprofundando meus estudos em desenvolvimento para dispositivos móveis em Android Nativo (Kotlin); 
 - 📖 Já tive contato com outras linguagens de programação como: Java, C e Python;
 - 💬 Qualquer dúvida sobre mim ou sobre algum repositório você pode entrar em contato comigo pelo email ou LinkedIn;
